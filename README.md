@@ -3,8 +3,8 @@
 ### 🎓 About Me
 - 🏫 Currently pursuing a **BSc in Computer Science (Cyber Security)** at **Innopolis University** (2022–2026)
 - 🌟 **GPA: 4.8/5.0** with expertise in cybersecurity, software development, and cloud technologies
-- 🔭 Passionate about **devops, security monitoring, backend development, Flutter, and competitive programming**
-- 📫 Reach me: [ammar3mesl@gmail.com](mailto:ammar3mesl@gmail.com)
+- 🔭 Passionate about **DevOps, Security Monitoring, Flutter, Backend Development, and Competitive Programming**
+- 📫 Reach me out: [ammar3mesl@gmail.com](mailto:ammar3mesl@gmail.com)
 
 ---
 
